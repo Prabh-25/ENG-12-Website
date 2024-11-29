@@ -1,0 +1,147 @@
+.h1,
+.h2,
+.h3,
+.h4,
+.h0 {
+  font-size: 25px;
+  max-width: 1000px;
+}
+.p2,
+.p5 {
+  text-align: left;
+}
+.p2,
+.p5 {
+  margin-right: -20px;
+}
+.p5 span {
+  font-weight: bold;
+}
+.h2,
+.h4 {
+  padding-left: 500px;
+  text-align: right;
+}
+.p1,
+.p2,
+.p0 {
+  margin-top: -30px;
+}
+.p0 span {
+  font-weight: bold;
+}
+.p1 span {
+  font-weight: bold;
+}
+.p3 span {
+  font-weight: bold;
+}
+.menu-bar {
+  background-color: black;
+  height: 120px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5%;
+}
+.Maintitle {
+  padding-left: 230px;
+  color: yellow;
+  font-size: 53px;
+}
+.Maintitle span {
+  color: red;
+}
+/* Basic styling for the navbar */
+
+.p4 {
+  font-size: 20px;
+  margin-left: 50px;
+  color: yellow;
+}
+
+/* Dropdown Button */
+.dropbtn {
+  margin-left: -10px;
+  background-color: yellow;
+  color: black;
+  border-radius: 20px;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  display: inline-block;
+  margin-left: -150px;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  transition: 0.5s;
+  background-color: #222222;
+  color: white;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  transition: color 1s;
+  background-color: #222222;
+  color: white;
+}
+.therapy {
+  text-align: left;
+  font-weight: bold;
+}
+.IMG {
+  margin-left: 1100px;
+  margin-top: -330px;
+  height: 370px;
+}
+.IMG3 {
+  margin-left: 1000px;
+  margin-top: -270px;
+  height: 300px;
+}
+.IMG2 {
+  width: 350px;
+  height: 300px;
+  margin-top: -270px;
+  margin-left: 70px;
+}
+.IMG4 {
+  height: 300px;
+  margin-bottom: -430px;
+}
+.Au {
+  background-color: black;
+  color: white;
+}
+.p2 span {
+  font-weight: bold;
+}
